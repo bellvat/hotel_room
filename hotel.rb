@@ -8,6 +8,7 @@
 #2.check whether those rooms are booked on desired dates
 #3 Do i need a separate class for each type of room?
 #4 I need to make sure the inputs are only dates
+
 class Build
 	attr_accessor :rooms
 	def initialize(name)
