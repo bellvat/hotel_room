@@ -1,4 +1,4 @@
-#Cheap and Expensive Room Booking
+# Cheap and Expensive Room Booking
 
 This is practice for understanding basic oop design.
 A hotel is initiated with 2 rooms, one cheap, one expensive.
